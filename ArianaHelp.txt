@@ -1,0 +1,17 @@
+Need some help ? Here is the commands you can do with me !
+
+Managing polls
+@Ariana polls create - Create a poll
+@Ariana polls summary - See a little summary about your created poll
+@Ariana polls delete - Delete your poll
+@Ariana polls start - Start the poll
+@Ariana stats <Poll ID> - List of all votes for this poll
+@Ariana polls stop - Stop the poll
+
+Editing polls
+@Ariana polls edit
+------------------ question <Question>
+------------------ answers add <Answer>
+
+Vote
+@Ariana vote <Poll ID> <Answer ID>
